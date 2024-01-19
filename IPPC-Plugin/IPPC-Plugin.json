@@ -1,0 +1,13 @@
+{
+  "Author": "Yuki",
+  "Name": "IPPC",
+  "Punchline": "Remote ALL the things!",
+  "Description": "Provides a bridge between Dalamud Plugins and other Programs",
+  "AssemblyVersion": "0.0.0.1",
+  "InternalName": "IPPC",
+  "ApplicableVersion": "any",
+  "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
+  "Tags": [
+    "api"
+  ]
+}
